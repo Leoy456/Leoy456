@@ -2,7 +2,7 @@
 
 I'm **Leo**, a mechatronics engineering student at the University of Waterloo!
 
-<!--
+
 
 <details>
  <summary><strong>🤓 Soemthing is here 🤓</strong></summary>
@@ -18,7 +18,7 @@ I'm **Leo**, a mechatronics engineering student at the University of Waterloo!
 </details>
 
 <br/>
--->
+
 
 ### How to reach me 📫: 
 
