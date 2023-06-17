@@ -11,9 +11,9 @@ I'm **Leo** a mechatronics engineering student at the University of Waterloo!
 -->
 
 📫 How to reach me: 
-<details>
+
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/leojyou/)](https://www.linkedin.com/in/leojyou/)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:you.leo2004@gmail.com)](mailto:you.leo2004@gmail.com)
-</details>
+
 
 
