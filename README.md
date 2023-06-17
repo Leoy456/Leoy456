@@ -2,12 +2,6 @@
 
 I'm **Leo**, a mechatronics engineering student at the University of Waterloo!
 
-
-
-<details>
- <summary><strong>🤓 Soemthing is here 🤓</strong></summary>
-</details>
-
   - 🔭 I’m currently working on ...
     
   - 🌱 I’m currently learning ...
@@ -17,8 +11,11 @@ I'm **Leo**, a mechatronics engineering student at the University of Waterloo!
   - 🤔 I’m looking for help with ...
     
   - 💬 Ask me about ...
-<br/>
 
+<details>
+ <summary><strong>Things I've Done</strong></summary>
+ - WIP
+</details>
 
 ### How to reach me 📫: 
 
