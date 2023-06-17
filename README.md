@@ -14,7 +14,7 @@ I'm **Leo**, a mechatronics engineering student at the University of Waterloo!
 
 <details>
  <summary><strong>Things I've Done</strong></summary>
- - WIP
+ -   WIP
 </details>
 
 ### How to reach me 📫: 
