@@ -8,8 +8,6 @@ I'm **Leo**, a mechatronics engineering student at the University of Waterloo!
  <summary><strong>🤓 Soemthing is here 🤓</strong></summary>
 </details>
 
- <summary><strong>Connect</strong></summary>
-
   - 🔭 I’m currently working on ...
     
   - 🌱 I’m currently learning ...
