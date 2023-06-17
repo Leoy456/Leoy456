@@ -2,19 +2,28 @@
 
 I'm **Leo**, a mechatronics engineering student at the University of Waterloo!
 
-  - 🔭 I’m currently working on ...
+  - 🔭 I’m currently working on (midterms) 
     
-  - 🌱 I’m currently learning ...
+  - 🌱 I’m currently learning to *shrek* C++ 
     
-  - 👯 I’m looking to collaborate on ...
-    
-  - 🤔 I’m looking for help with ...
-    
-  - 💬 Ask me about ...
+  - 🤔 I’m looking for help with embedded and systems development
 
 <details>
- <summary><strong>Things I've Done</strong></summary>
- -   WIP
+ <summary><strong>Goals🚀</strong></summary>
+
+  - (in the works) Embedded Development + HW Hacks 
+  - (in the pipeline)Systms/OS/Compiler Development 
+  - (in the works) Personal Website + Web Dev
+  - (in the pipeline) Resume bank add-in to website
+    
+</details>
+    
+<details>
+ <summary><strong>✨Experiences✨</strong></summary>
+
+  - 🎒 Candidate for B.A.Sc. Mechatronics Engineering @ uWaterloo
+  - 🛻 Engineering Intern (PM and SW) @ Martinrea Hydroform (Winter 2023)
+  - 💻 Incoming SWE Intern @ ArcticAI 
 </details>
 
 ### How to reach me 📫: 
