@@ -2,7 +2,7 @@
 
 I'm **Leo**, a mechatronics engineering student at the University of Waterloo!
 
-  - 🔭 I’m currently working on (midterms) 
+  - 🔭 I’m currently working on...
     
   - 🌱 I’m currently learning to *shrek* C++ 
     
