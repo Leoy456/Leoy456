@@ -4,17 +4,14 @@ I'm **Leo**, a mechatronics engineering student at the University of Waterloo!
 
   - 🔭 I’m currently working on...
     
-  - 🌱 I’m currently learning to *shrek* C++ 
+  - 🌱 I’m currently learning to...
     
-  - 🤔 I’m looking for help with embedded and systems development
+  - 🤔 I’m looking for help with...
 
 <details>
  <summary><strong>Goals🚀</strong></summary>
 
-  - (in the works) Embedded Development + HW Hacks 
-  - (in the pipeline)Systms/OS/Compiler Development 
-  - (in the works) Personal Website + Web Dev
-  - (in the pipeline) Resume bank add-in to website
+  - nothing here yet
     
 </details>
     
@@ -28,7 +25,7 @@ I'm **Leo**, a mechatronics engineering student at the University of Waterloo!
 
 ### How to reach me 📫: 
 
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/leojyou/)](https://www.linkedin.com/in/leojyou/)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/leojcyou/)](https://www.linkedin.com/in/leojcyou/)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:you.leo2004@gmail.com)](mailto:you.leo2004@gmail.com)
 
 
