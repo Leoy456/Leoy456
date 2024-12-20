@@ -23,7 +23,7 @@ I'm **Leo**, a mechatronics engineering student at the University of Waterloo!
 ### How to reach me 📫: 
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/leojcyou/)](https://www.linkedin.com/in/leojcyou/)
-[![Gmail Badge]([https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white](https://img.shields.io/badge/Outlook-0078D4?style=flat&logo=microsoft-outlook&logoColor=white)&link=mailto:leojcyou@outlook.com)](mailto:leojcyou@outlook.com)
+[![Outlook Badge]([https://img.shields.io/badge/Outlook-0078D4?style=flat&logo=microsoft-outlook&logoColor=white]	https://img.shields.io/badge/Outlook-0078D4?style=flat&logo=microsoft-outlook&logoColor=white&link=mailto:leojcyou@outlook.com)](mailto:leojcyou@outlook.com)
 
 
 
